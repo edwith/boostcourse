@@ -36,6 +36,8 @@ Thumbs.db
 .buildpath
 .classpath
 .project
+.metadata
+.recommenders
 
 # Logging
 *.log
